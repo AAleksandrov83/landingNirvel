@@ -80,7 +80,7 @@
 /* Центральная линия хедера*/
 .header-medium{
     height: 46px;
-    background: url('../img/bg/line.png') center center no-repeat;
+    background: url("../img/bg/line.png") center center no-repeat;
 }
 
 
